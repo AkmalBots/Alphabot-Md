@@ -28,16 +28,16 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 global.botname = "Akmal-Mdོ" //namabot kalian
 global.ownername= "Akmal" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
-global.myweb2 = "https://linktr.ee/zeeoneofc" //bebas
+global.myweb ="xnxx.com" //bebas asal jan hapus
+global.youtube = "https://youtube.com/channel/https://youtube.com/channel/UCrGzDGJAwlNqBx2h0NMHXjA" //bebas asal jan hapus
+global.myweb2 = "https://linktr.ee/Holer" //bebas
 global.email = "zeeoneofc@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['6281269734000'] //premium user
-global.owner = ["6285342106390","622150996855"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["6281269734000","6281269734000"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "6281269734000" // nomor wa kalian
-global.ownernomerr = "+6281269734000" //nmr wa kalian
+global.ownernomerr = "6281269734000" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
@@ -117,7 +117,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    sukses: '🤗Done, Oke Desu~',
+    sukses: 'Done✨',
     admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
     botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
     owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
