@@ -28,7 +28,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 global.botname = "Hiro-Mdོ" //namabot kalian
 global.ownername= "Akmal" //nama kalian
-global.myweb ="xnxx.com" //bebas asal jan hapus
+global.myweb ="https://youtube.com/channel/UCrGzDGJAwlNqBx2h0NMHXjA" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/https://youtube.com/channel/UCrGzDGJAwlNqBx2h0NMHXjA" //bebas asal jan hapus
 global.myweb2 = "https://linktr.ee/Holer" //bebas
 global.email = "jordielnino@gmail.com" //bebas
@@ -127,7 +127,7 @@ global.mess = {
     errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
     wait: '⏳ Sedang Di Proses',
 	lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
-	example1: 'Selamat Datang @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
+	example1: 'Hi Kak @user Di @subject Jangan Lupa Subrek Yt ku ya https://youtube.com/channel/UCrGzDGJAwlNqBx2h0NMHXjA. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
 }
 
 let file = require.resolve(__filename)
