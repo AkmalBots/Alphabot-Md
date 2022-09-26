@@ -26,7 +26,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Botz-Mdོ" //namabot kalian
+global.botname = "Hiro-Mdོ" //namabot kalian
 global.ownername= "Akmal" //nama kalian
 global.myweb ="https://youtube.com/channel/UCrGzDGJAwlNqBx2h0NMHXjA" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/https://youtube.com/channel/UCrGzDGJAwlNqBx2h0NMHXjA" //bebas asal jan hapus
@@ -42,8 +42,8 @@ global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder i
 global.donasi = "./image/zilong-ravamped-glorious-general-mobile-legends-skin-project-next-uhdpaper.com-4K-5.2876-wp.thumbnail.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© Botz-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh Akmal Donatur Nomor:Wan,Admin Buyer:Zann' //sticker wm ganti nama kalian
+global.packname = '© Hiro-Mdོ' //sticker wm ubah
+global.author = 'Holer GTPS' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
@@ -127,7 +127,7 @@ global.mess = {
     errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
     wait: '⏳ Sedang Di Proses',
 	lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
-	example1: 'Hi Kak @user Di @subject Jangan Lupa Subrek Yt ku ya https://youtube.com/channel/UCrGzDGJAwlNqBx2h0NMHXjA. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
+	example1: 'Welcome @user To @subject'
 }
 
 let file = require.resolve(__filename)
